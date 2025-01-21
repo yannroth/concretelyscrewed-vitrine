@@ -1,4 +1,5 @@
 [Page d'accueil](./index.md)
+
 # Histoire
 ## Philosophy
 **Concretely Screwed** n'est pas une marque mais un artisanat de vélo durable. L'idée de départ et de fournir un vélo pour lausannois·es fait à Lausanne prenant en compte les particularités de cette ville.
