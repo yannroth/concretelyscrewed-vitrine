@@ -25,7 +25,37 @@ Avec ces 18 rapports espacé linéairement sur 636%, la boite à vitesse P1.18 d
 
 - [Page officielle](https://pinion.eu/en/p-line/)
 
-## Seidon TAZA Fork
+## Dropout
+### Allotec C25
+Slider dropout, compatible avec différentes plaques
+
+![Allotec C25](./pics/Allotec-C25.jpeg)
+
+
+ - [Page officielle](http://www.allotec.com.tw/Dropout91.html?CID=1_6)
+
+### Allotec C151
+Plaque pour slider
+
+![Allotec C151](./pics/Allotec-C151.jpg)
+
+ - Sram UDH
+ - Post-Mount Brake
+ - Rotor 160mm
+ - [Page officielle](http://www.allotec.com.tw/Dropout151.html?CID=1_6)
+
+### Allotec C152
+Plaque pour slider
+
+![Allotec C152](./pics/Allotec-C152.jpg)
+
+ - Sram UDH
+ - Flat-Mount brake
+ - Rotor 160mm
+ - [Page officielle](http://www.allotec.com.tw/Dropout152.html?CID=1_6)
+
+## Fourches
+### Seidon TAZA Fork
 Fourche carbon ultime de voyage, heavy duty.
 
 ![Seido TAZA Fork](./pics/Seido-TAZA_Fork.webp)
@@ -41,7 +71,7 @@ Fourche carbon ultime de voyage, heavy duty.
  - Poids system max 150kg
  - [Page officielle](https://seido-components.com/collections/mtb-forks/products/taza-fork) 645.99 Euro
 
-## Seido MGV Fork
+### Seido MGV Fork
 Fourche carbon légère de voyage
 
 ![Seido MGV Fork](./pics/Seido-MGV_Fork.webp)
@@ -61,7 +91,7 @@ Fourche carbon légère de voyage
     - [alltricks.com](https://www.alltricks.com/F-11918-fourches/P-2386460-seido_mgv_27_5__disc_fork___12x100mm___53mm_offset) 349.99 Euro
     - [velofactory.ch](https://www.velofactory.ch/SEIDO-MGV-Fork-275-28-TA-12x100-410mm-A-C_1) 338 CHF
 
- ## Seido BPS Fork
+ ### Seido BPS Fork
  Fourche acier utlime de voyage, heavy duty.
  
 ![Seido BPS Fork](./pics/Seido-BPS_Fork.webp)
@@ -82,7 +112,7 @@ Fourche carbon légère de voyage
     - [galaxus.ch](https://www.galaxus.ch/fr/s3/product/seido-bps-fork-ta-15mm-51mm-offset-fourche-velo-46596308) 306.00 CHF
     - [velofactory.ch](https://www.velofactory.ch/SEIDO-BPS-Fork-TA-15mm-51mm-offset_2) 288.00 CHF
 
-## Enve Adventure Fork
+### Enve Adventure Fork
 Fourche carbon de voyage
 
 ![Enve Adventure Fork](./pics/Enve-Adventure_Fork.webp)
@@ -103,7 +133,7 @@ Fourche carbon de voyage
     - [bike24.com](https://www.bike24.com/p2440227.html) 622.25 Euro
     - [alltricks.com](https://www.alltricks.com/F-11918-fourches/P-2208003-enve_adventure_fork_i_12x100_mm_i_carbon) 749 Euro
 
-## Enve Mountain Fork BOOST
+### Enve Mountain Fork BOOST
 Fourche carbon VTT
 
 ![Enve Mountain Fork Boost](./pics/Enve-Mountain_Fork_Boost.webp)
@@ -123,7 +153,7 @@ Fourche carbon VTT
     - [ciclimattio.com](https://ciclimattio.com/en/p/enve/mtn-29-1-1-2-taper-fork-black-44-52-110mm-29) 557.62 CHF
     - [r2-bike.com](https://r2-bike.com/ENVE-Fork-29-BOOST-Rigid-Fork-tapered-15-15x110-mm-Thru-Axle) 575.63 Euro
 
-## Ritchey WCS CARBON TAPERED ADVENTURE GRAVEL FORK
+### Ritchey WCS CARBON TAPERED ADVENTURE GRAVEL FORK
 Fourche carbon de voyage (existe en version pas Tapered)
 
 ![Ritchey WCS CARBON TAPERED ADVENTURE GRAVEL FORK](./pics/Ritchey-WCS_Carbon_Tapered_Adventure_Gravel_Fork.avif)
@@ -144,7 +174,7 @@ Fourche carbon de voyage (existe en version pas Tapered)
     - [tradeinn.com](https://www.tradeinn.com/bikeinn/en/ritchey-wcs-carbon-tapered-adventure-12x100-mm-road-fork/139283826/p) 476.99 CHF
     - [velofactory.ch](https://www.velofactory.ch/Fourche-Ritchey-Gravel-Adventure-WCS-Carbon-12x100-1-1-8-1-1-5-axe-inclus) 513.00 CHF
 
-## Ritchey WCS STEEL ADVENTURE FORK
+### Ritchey WCS STEEL ADVENTURE FORK
 Fourche acier de voyage
 
 ![Ritchey WCS STEEL ADVENTURE FORK](./pics/Ritchey-WCS_Steel_Adventure_Fork.avif)
@@ -161,7 +191,7 @@ Fourche acier de voyage
  - Poids system max inconnu
  - [Page officielle](https://ritcheylogic.com/bike/forks/wcs-steel-adventure-fork) 299.90 CHF
 
-## Wilde Waypoint Carbon Fork
+### Wilde Waypoint Carbon Fork
 Fourche carbon de voyage
 
 ![Wilde Waypoint Carbon Fork](./pics/Wilde-Waypoint_Carbon_Fork.webp)
@@ -179,7 +209,7 @@ Fourche carbon de voyage
  - Poids system max 115kg
  - [Page officielle](https://www.wildebikes.com/products/waypoint-carbon-fork-tapered) 462 CHF
 
-## Colombus Futura Adventure
+### Colombus Futura Adventure
 Fourche carbon de voyage
 
 ![Colombus Futura Adventure](./pics/Colombus-Futura_Adventure.webp)
@@ -202,7 +232,7 @@ Fourche carbon de voyage
     - [voyage-shop.ch](https://www.voyage-shop.ch/Parts/Fork/Columbus-Futura-Adventure-Fork.htm?shop=fs_en&SessionId=&a=article&ProdNr=FKCG0006&p=5714) 550.00 CHF
     - [ciclicorsa.com](https://ciclicorsa.com/fr/shop/futura-adventure-fork/) 594.00 Euro
 
-## State Bicycle Co. Carbon Fiber Monster Gravel Fork V2
+### State Bicycle Co. Carbon Fiber Monster Gravel Fork V2
 Fourche carbon de voyage
 
 ![State Bicycle Co. Monster Gravel Fork V2](./pics/StateBicycleCo-Monster_GravelFork.webp)
@@ -236,7 +266,7 @@ Berlin based brand, travel carbon fork
  - Poids system max inconnu
  - [Page officielle](https://8bar-bikes.com/shop/gravel-carbon-disc-fork-3/) 252.10 Euro
 
-## Rodeo Spork Series 3.3
+### Rodeo Spork Series 3.3
 Fourche carbon de voyage configurable
 
 ![Rodeo Spork Series 3](./pics/Rodeo-Spork-3.jpg)
@@ -253,37 +283,6 @@ Fourche carbon de voyage configurable
  - Poids bagage max 12.5kg
  - Poids system max 135kg
  - [Page officielle](https://www.rodeo-labs.com/shop/forks/rodeo-labs-spork-3-0/) 465 $
-
- ## Seido MAGNON Rim
- Jante aluminium de voyage avec design asymmectric
-
-![Seido MAGNON Rim](./pics/Seido-MAGNON_Rim_25-622.webp)
-
- - ETRTO 25-622
- - Spoke count 32
- - Nipple seat diameter 599mm
- - ERD 602mm
- - Spoke offset 3.5mm
- - Tension max 110 - 130 kgf
- - Poids system max 150kg
- - Poids 533g
- - [Page officielle](https://seido-components.com/collections/rims/products/magnon-rim) 49.99 Euro
- - Revendeur:
-    - [tradeinn.com](https://www.tradeinn.com/bikeinn/fr/seido-jante-magnon/140586357/p?srsltid=AfmBOopUtryeVpy76n-w7d3JwChH1oEUJdQdsUF7ZBZ74Hb_oHG-d76A) 44.99 CHF
-
-## DT Swiss R500db
-Jante aluminium de voyage
-
-![DT Swiss R500db](./pics/DT-Swiss_R500db.jpg)
-
- - ETRTO 22-622
- - Spoke count 32
- - ERD 596mm
- - Poids system max 130kg
- - Poids 495g
- - [Page officielle](https://www.dtswiss.com/fr/composants/jantes-route/cross-road/r-500)
- - Revendeur:
-    - [bike-discount.de](https://www.bike-discount.de/en/dt-swiss-r-500-28-disc-rim) 29.99 Euro
 
 ## Derailleurs
 ### Ingrid RD-1 Derailleur
@@ -392,31 +391,19 @@ Entreprise "familiale" plus petite basée à Taiwan.
  - [Page officielle](https://trpcycling.com/products/hy-rd?variant=47470289649951) 139.00 CHF
 
 ## Roues
-### Moyeux
+### Moyeux arrière
 #### Velo Orange Disc Rear Hub
 
 ![Velo Orange Disc Rear Hub](./pics/VeloOrange-DiscRearHub.webp)
 
  - 142mm Thru-Axle
  - 32/36 holes
- - Disc 6-bolt
+ - Disc 6-bolts
  - Shimano HG (11s) / Sram XDR
  - 317g
  - [Page officielle](https://velo-orange.com/collections/hubs/products/disc-rear-hub-silver-and-noir) 180.00 $
  - Revendeur:
    - [voyage-shop.ch](https://www.voyage-shop.ch/Parts/Hubs/Velo-Orange-Disc-Rear-Hub-Silver.htm?shop=fs_en&SessionId=&a=article&ProdNr=HU-0038&p=5683) 199.00 CHF
-
-#### Velo Orange Disc Front Hub
-
-![Velo Orange Disc Front Hub](./pics/VeloOrange-DiscFrontHub.webp)
-
- - 12mm/15mm x 100mm thru-axle
- - 32/36 holes
- - Disc 6-bolt
- - 160g
- - [Page officielle](https://velo-orange.com/collections/hubs/products/disc-front-hub-silver-and-noir) 78.00 $
- - Revendeur:
-   - [voyage-shop.ch](https://www.voyage-shop.ch/Parts/Hubs/Velo-Orange-Disc-Front-Hub-Silver.htm?shop=fs_en&SessionId=&a=article&ProdNr=HU-0042&p=5683) 85.00 CHF
 
 #### Shimano DEORE XT FH-M8110
 
@@ -429,11 +416,120 @@ Entreprise "familiale" plus petite basée à Taiwan.
  - 305g
  - [Page officielle](https://bike.shimano.com/fr-FR/products/components/pdp.P-FH-M8110.html)
  - Revendeur:
-   - [bike-components.de](https://www.bike-components.de/fr/Shimano/Moyeu-Arriere-XT-FH-M8110-Disc-Center-Lock-Axe-Traversant-12-mm-p71558/?v=71789-noir)
+   - [bike-components.de](https://www.bike-components.de/fr/Shimano/Moyeu-Arriere-XT-FH-M8110-Disc-Center-Lock-Axe-Traversant-12-mm-p71558/?v=71789-noir) 69.94 Euro
+
+#### Hope Pro 5
+Hub de riche disponible dans plein de couleur et dans tout les standards.
+
+![Hope PRO5](./pics/Hope-Pro_5-6-bolts.jpg)
+
+ - 12 x 142mm
+ - 24/28/32 holes
+ - Disc 6-bolts
+ - Shimano MicroSpline
+ - 313g
+ - [Page officielle](https://www.hopetech.com/products/hubs/mountain-bike/pro-5-135-142mm-rear/)
+ - Revendeur:
+   - [bike24.fr](https://www.bike24.fr/produits/739914?sku=2530212) 262.18 Euro
+   - [r2-bike.com](https://r2-bike.com/HOPE-Rear-Hub-Pro-5-Classic-Center-Lock-12x142-mm-thru-axle-Freehub-Shimano-Micro-Spline-silver) 216.39 Euro
+
+#### DT Swiss Hub 350
+
+![DT Swiss Hub 350](./pics/DTSwiss-Hub350.webp)
+
+ - 12 x 148mm
+ - 28/32 holes
+ - Disc 6-bolts
+ - Shimano MicroSpline
+ - 277g
+ - [Page officielle](https://www.dtswiss.com/fr/composants/moyeux-et-rws/moyeux-vtt/350)
+ - Revendeur:
+   - [r2-bike.com](https://r2-bike.com/DT-SWISS-Rear-Hub-350-Classic-6-Hole-12x148-mm-BOOST-Thru-Axle-Freehub-Shimano-Micro-Spline) 157.56 Euro
+
+### Moyeux avant
+#### Velo Orange Disc Front Hub
+
+![Velo Orange Disc Front Hub](./pics/VeloOrange-DiscFrontHub.webp)
+
+ - 12mm/15mm x 100mm thru-axle
+ - 32/36 holes
+ - Disc 6-bolt
+ - 160g
+ - [Page officielle](https://velo-orange.com/collections/hubs/products/disc-front-hub-silver-and-noir) 78.00 $
+ - Revendeur:
+   - [voyage-shop.ch](https://www.voyage-shop.ch/Parts/Hubs/Velo-Orange-Disc-Front-Hub-Silver.htm?shop=fs_en&SessionId=&a=article&ProdNr=HU-0042&p=5683) 85.00 CHF
+
+#### Shimano 105 HB-R7070
+
+![Shimano HB-R7070](./pics/Shimano-HB-R7070.jpg)
+
+ - 12 x 100mm
+ - 32/36 holes
+ - Disc direct-mount
+ - 165g
+ - [Page officielle](https://bike.shimano.com/fr-BE/products/components/pdp.P-HB-R7070.html)
+ - Revendeur:
+   - [bike24.fr](https://www.bike24.fr/produits/297450?sku=1037709) 54.44 Euro
+
+
+### Jantes
+#### Seido MAGNON Rim
+Jante aluminium de voyage avec design asymmectric
+
+![Seido MAGNON Rim](./pics/Seido-MAGNON_Rim_25-622.webp)
+
+ - ETRTO 25-622
+ - Spoke count 32
+ - Nipple seat diameter 599mm
+ - ERD 602mm
+ - Spoke offset 3.5mm
+ - Tension max 110 - 130 kgf
+ - Poids system max 150kg
+ - Poids 533g
+ - [Page officielle](https://seido-components.com/collections/rims/products/magnon-rim) 49.99 Euro
+ - Revendeur:
+    - [tradeinn.com](https://www.tradeinn.com/bikeinn/fr/seido-jante-magnon/140586357/p?srsltid=AfmBOopUtryeVpy76n-w7d3JwChH1oEUJdQdsUF7ZBZ74Hb_oHG-d76A) 44.99 CHF
+
+#### DT Swiss R500db
+Jante aluminium de voyage
+
+![DT Swiss R500db](./pics/DT-Swiss_R500db.jpg)
+
+ - ETRTO 22-622
+ - Spoke count 32
+ - ERD 596mm
+ - Poids system max 130kg
+ - Poids 495g
+ - [Page officielle](https://www.dtswiss.com/fr/composants/jantes-route/cross-road/r-500)
+ - Revendeur:
+    - [bike-discount.de](https://www.bike-discount.de/en/dt-swiss-r-500-28-disc-rim) 29.99 Euro
+    - [r2-bike.com](https://r2-bike.com/DT-SWISS-Rim-28-R-500-DB-Disc-32-Holes) 27.31 Euro
+
+### Rayon
+#### Sapim Spoke Race 2.0-1.8-2.0mm
+
+![Sapim Spoke Race](./pics/SAPIM-SpokeRace_2.0-1.8-2.0mm.webp)
+
+ - 2.0mm - 1.8mm - 2.0mm
+ - [Page officielle](https://www.sapim.be/spokes/butted/race)
+ - Revendeur:
+   - [wian-bike-and-parts.ch](https://www.wian-bike-and-parts.ch/produkt/sapim-speiche-race-2-0-1-8-2-0mmeinzelstueck-mit-nippel-messing-polyax-12mm-silber/) 1.20 CHF
+   - [r2-bike.com](https://r2-bike.com/SAPIM-Spoke-Race-silver-302-mm) 0.42 Euro
+
+#### Sapim Spoke D-Light 2.0-1.65-2.0mm
+Version un poil plus légère, bon compromis résistance/poid
+
+ - 2.0mm - 1.65mm - 2.0mm
+ - [Page officielle](https://www.sapim.be/spokes/butted/d-light)
+ - Revendeur:
+   - [wian-bike-and-parts.ch en noir](https://www.wian-bike-and-parts.ch/produkt/sapim-speiche-d-light-2-0-1-65-2-0mm-einzelstueck-mit-nippel-polyax-schwarz/) 1.95 CHF
+   - [r2-bike.com](https://r2-bike.com/SAPIM-Spoke-D-Light-silver-288-mm) 0.42 Euro
+
+![Sapim D-light](./pics/Sapim-D-Light.jpg)
 
 ## Pédalier
 ### Shimano DEORE XT FC-M8100-1
-Pédalier de référence chez Shimano bon marché.
+Pédalier de référence chez Shimano bon marché. FC-M8120-1 pour chainline à 55mm
 
 Besoin d'un chainring Boost (3mm offset)
 
@@ -446,14 +542,49 @@ Besoin d'un chainring Boost (3mm offset)
  - BB 68/73mm
  - O.L.D. 142/148mm
  - 24mm
- - 608g (avec pignon 28T)
+ - 511g (608g avec pignon 28T)
  - [Page officielle](https://bike.shimano.com/fr-BE/products/components/pdp.P-FC-M8100-1.html)
  - Revendeur:
    - [bike-discount.de](https://www.bike-discount.de/fr/shimano-xt-fc-m8100-1-manivelle-12-vitesses-sans-plateau) 109.99 Euro
    - [bike24.fr](https://www.bike24.fr/produits/411608?sku=1423243) 98.81 Euro
 
+### Shimano DEORE XT FC-M7100-1
+Pédalier de référence chez Shimano bon marché. FC-M7120-1 pour chainline à 55mm
+
+Besoin d'un chainring Boost (3mm offset)
+
+![Shimano FC-M7100-1](./pics/Shimano-FC-M7100-1.webp)
+
+ - Q-Factor 172mm
+ - Longueur 165/170/175/180mm
+ - Chainline 52mm
+ - Direct-mount Shimano VTT
+ - BB 68/73mm
+ - O.L.D. 142/148mm
+ - 24mm
+ - 523g
+ - [Page officielle](https://bike.shimano.com/fr-CH/products/components/pdp.P-FC-M7100-1.html)
+ - Revendeur:
+   - [r2-bike.com](https://r2-bike.com/SHIMANO-SLX-Crank-Direct-Mount-1x12-speed-FC-M7100-1-without-Chainring-170-mm) 66.81 Euro
+
+### Shimano GRX FC-RX810-1
+
+![Shimano GRX FC-RX810-1](./pics/Shimano-FC-RX810-1.jpg)
+
+ - Q-Factor 151mm
+ - Longueur 170/172.5/175
+ - Chainline 49.7mm
+ - BCD 110mm
+ - BB 68/**70**mm
+ - O.L.D. 135/142mm
+ - 24mm
+ - ???g
+ - [Page officielle](https://bike.shimano.com/fr-FR/products/components/pdp.P-FC-RX810-1.html)
+ - Revendeur:
+   - [r2-bike.com](https://r2-bike.com/SHIMANO-GRX-Crankset-FC-RX810-1x11-speed-40-Teeth)
+
 ## Chainring
-### Alugear Oval Boost
+### Alugear Oval Boost for Shimano DM 12sp
 Oval chainring pour direct mount (exist en "Gravel" avec un offset de 6mm)
 
 ![Alugear Oval Boost](./pics/alugear-oval_boost.jpg)
@@ -467,3 +598,19 @@ Oval chainring pour direct mount (exist en "Gravel" avec un offset de 6mm)
  - 7075-T6 aluminum
  - Direct-Mount Shimano 12s
  - [Page officielle](https://alugear.com/chainrings-1x/230-11871-oval-boost-for-shimano-dm-12sp-mtb.html#/color-black/size-40t) 75.00 Euro
+
+### Alugear Oval for Shimano GRX
+Oval chainring pour BCD 110
+
+![Alugear Oval for Shimano GRX](./pics/alugear-oval_grx.jpg)
+ - 40T
+ - Offset 2mm
+ - Chainline 52mm (si avec 52mm pédalier)
+ - Diameter 178mm
+ - 62g
+ - Timing 108deg
+ - Ovality 12%
+ - 7075-T6 aluminum
+ - BCD 110 Shimano
+ - [Page officielle](https://alugear.com/chainrings-1x/293-15893-oval-for-110-bcd-shimano-grx-road-gravel.html#/11-color-black/33-size-38t) 73.00 Euro
+
