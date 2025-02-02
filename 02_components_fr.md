@@ -39,7 +39,7 @@ Fourche carbon ultime de voyage, heavy duty.
  - Support pneu 75-622 (29" x 3.0") / 75-584 (27.5" x 3.0")
  - Poids 656g + 58g pour l'axe
  - Poids system max 150kg
- - [Page officielle](https://seido-components.com/collections/mtb-forks/products/taza-fork)
+ - [Page officielle](https://seido-components.com/collections/mtb-forks/products/taza-fork) 645.99 Euro
 
 ## Seido MGV Fork
 Fourche carbon légère de voyage
@@ -55,7 +55,7 @@ Fourche carbon légère de voyage
  - Support pneu 58-622 (29" x 2.25") / 64-584 (27.5" x 2.5")
  - Poids 530g
  - Poids bagage max 18kg
- - [Page officielle](https://seido-components.com/collections/gravel-fork/products/mgv-fork)
+ - [Page officielle](https://seido-components.com/collections/gravel-fork/products/mgv-fork) 375.99 Euro
  - Revendeur:
     - [tradeinn.com](https://www.tradeinn.com/bikeinn/en/seido-mgv-gravel-fork/141063459/p) 346.49 CHF
     - [alltricks.com](https://www.alltricks.com/F-11918-fourches/P-2386460-seido_mgv_27_5__disc_fork___12x100mm___53mm_offset) 349.99 Euro
@@ -220,6 +220,22 @@ Fourche carbon de voyage
  - Poids system max inconnu
  - [Page officielle](https://www.statebicycle.com/products/state-bicycle-co-carbon-fiber-monster-gravel-fork) 278.00 CHF
 
+### 8Bar GRAVEL - Carbon Disc Fork
+Berlin based brand, travel carbon fork
+
+ - 
+ - Tapered, 1-1/8" - 1-1/2"
+ - S.H.I.S 28.6mm, 40mm
+ - Offset 50mm
+ - Axle to crown 400mm
+ - Axe M12 x 1.5 x 100mm
+ - Frein Flat Mount, max 160mm disque
+ - Support pneu 50-622 / (27.5" x 2.0")
+ - Poids 450g
+ - Poids bagage max pas de rack
+ - Poids system max inconnu
+ - [Page officielle](https://8bar-bikes.com/shop/gravel-carbon-disc-fork-3/) 252.10 Euro
+
 ## Rodeo Spork Series 3.3
 Fourche carbon de voyage configurable
 
@@ -269,12 +285,23 @@ Jante aluminium de voyage
  - Revendeur:
     - [bike-discount.de](https://www.bike-discount.de/en/dt-swiss-r-500-28-disc-rim) 29.99 Euro
 
-## Ingrid RD-1 Derailleur
+## Derailleurs
+### Ingrid RD-1 Derailleur
 Derailleur fait en Italie multi-compatible (SRAM/Shimano/road/mtn/11s/12s)
 
 ![Ingrid RD-1](./pics/Ingrid-RD-1.jpg)
 
 [Page officielle](https://ingrid.bike/product/rear-derailleur-rd1/) 599 Euro
+
+### TRP EVO 12 Derailleur
+Derailleur compatible Shimano 12 vittesses VTT microspline.
+
+[TRP EVO 12 Derailleur](./pics/TRP-EVO_12_Derailleur.webp)
+
+ - 12 speeds
+ - Max 52T
+ - 300g
+ - [Page officielle](https://trpcycling.com/products/evo-12-derailleur) 222.00 CHF
 
 ## Seido PHASER Pedals
 Pedales plates en alu 6061 usinées
@@ -305,3 +332,138 @@ Dropbar shifter compatible avec derailleur 12s et frein à cable
  - Short cable pull for road brakes
  - 12s Shimano or SRAM compatible
  - [Page officielle](https://www.gevenalle.com/product/gx/) 189 $
+
+## Cassette
+### SunRace CSMZ930 / CSMZ932 / CSMZ933
+Cassette compatible Shimano Microspline donc VTT 12 vitesses avec 10 dents sur petit pignon.
+
+![SunRace CSMZ930](./pics/Sunrace-CSMZ930.jpg)
+
+ - Shimano microspline
+ - 12 speeds
+ - 10-51
+ - 675g / 563g / 526g
+ - Pages officielles: [CSMZ930](https://sunrace.com/product/csmz930-microspline/) / [CSMZ932](https://sunrace.com/product/csmz932-microspline/) / [CSMZ933](https://sunrace.com/product/csmz933-microspline/)
+ - Revendeur:
+   - [CSMZ930 bike-discount.de](https://www.bike-discount.de/fr/sunrace-cassette-csmz932-12-vitesses-10-51)
+
+### TRP EVO 12 Cassette
+Cassette compatible Shimano Microspline.
+
+![TRP EVO 12 Cassette](./pics/TRP-EVO_12_Cassette.webp)
+
+ - Shimano Microspline
+ - Disponible en noir et or
+ - 12 speeds
+ - 10-52
+ - 372g
+ - [Page officielle](https://trpcycling.com/products/evo-12-cassette) 370.00 CHF
+
+## Freins
+### Yokozuna Ultimo / Motoko
+Marque japonaise de frein hydrolique hybride à cable performant.
+
+![Yokozuna Ultimo](./pics/Yokozuna-Ultimo.jpg)
+
+Disponible en version **4 pistons Ultimo** en Flat mount ou Post mount mais seulement pour levier de frein de route **Short Pull**.
+Ainsi qu'en version **2 pistons Motoko** en Post mount uniquement mais pour levier de frein VTT **Long Pull** (pour V-brakes) ou frein de route **Short Pull**.
+
+ - Flat/Post mount
+ - Hydrolique actionné par câble (hybride)
+ - Short/Long pull
+ - 2/4 pistons
+ - Plaquettes Shimano D-type (Sainte/Zee) / Shimano A-Type (XTR/SLX)
+ - 139g / 145g / pince de frein
+ - Pages officielles: [Ultimo](https://www.yokozunausa.com/shop/yokozuna-ultimo-road-disc-brake-post-mount-2190) 329.99 $ / [Motoko](https://www.yokozunausa.com/shop/yokozuna-motoko-mtb-disc-brake-blk-post-mount-5839) 199.99 $
+ - Revendeur:
+   - [Ultimo voyage-shop.ch](https://www.voyage-shop.ch/Parts/Brakes/Yokozuna-Ultimo-Road-Disc-Brake-Post-Mount-Black-Rear.htm?shop=fs_en&SessionId=&a=article&ProdNr=730037&p=5718) 325.00 CHF
+   - [Motoko voyage-shop.ch](https://www.voyage-shop.ch/Parts/Brakes/Yokozuna-Motoko-Road-Disc-Brake-Post-Mount-in-schwarz-Rear.htm?shop=fs_en&SessionId=&a=article&ProdNr=730013&p=5718) 159.00 CHF
+
+
+### TRP HY/RD
+Entreprise "familiale" plus petite basée à Taiwan.
+
+ - Flat/Post mount
+ - Hydrolique actionné par câble (hybride)
+ - Short Pull
+ - 2 pistons
+ - Plaquettes Shimano M525/M515
+ - 205g / pince de frein
+ - [Page officielle](https://trpcycling.com/products/hy-rd?variant=47470289649951) 139.00 CHF
+
+## Roues
+### Moyeux
+#### Velo Orange Disc Rear Hub
+
+![Velo Orange Disc Rear Hub](./pics/VeloOrange-DiscRearHub.webp)
+
+ - 142mm Thru-Axle
+ - 32/36 holes
+ - Disc 6-bolt
+ - Shimano HG (11s) / Sram XDR
+ - 317g
+ - [Page officielle](https://velo-orange.com/collections/hubs/products/disc-rear-hub-silver-and-noir) 180.00 $
+ - Revendeur:
+   - [voyage-shop.ch](https://www.voyage-shop.ch/Parts/Hubs/Velo-Orange-Disc-Rear-Hub-Silver.htm?shop=fs_en&SessionId=&a=article&ProdNr=HU-0038&p=5683) 199.00 CHF
+
+#### Velo Orange Disc Front Hub
+
+![Velo Orange Disc Front Hub](./pics/VeloOrange-DiscFrontHub.webp)
+
+ - 12mm/15mm x 100mm thru-axle
+ - 32/36 holes
+ - Disc 6-bolt
+ - 160g
+ - [Page officielle](https://velo-orange.com/collections/hubs/products/disc-front-hub-silver-and-noir) 78.00 $
+ - Revendeur:
+   - [voyage-shop.ch](https://www.voyage-shop.ch/Parts/Hubs/Velo-Orange-Disc-Front-Hub-Silver.htm?shop=fs_en&SessionId=&a=article&ProdNr=HU-0042&p=5683) 85.00 CHF
+
+#### Shimano DEORE XT FH-M8110
+
+![Shimano FH-M8110](./pics/Shimano-FH-M8110.avif)
+
+ - 12 x 142mm
+ - 28/32 holes
+ - Disc direct-mount
+ - Shimano MicroSpline
+ - 305g
+ - [Page officielle](https://bike.shimano.com/fr-FR/products/components/pdp.P-FH-M8110.html)
+ - Revendeur:
+   - [bike-components.de](https://www.bike-components.de/fr/Shimano/Moyeu-Arriere-XT-FH-M8110-Disc-Center-Lock-Axe-Traversant-12-mm-p71558/?v=71789-noir)
+
+## Pédalier
+### Shimano DEORE XT FC-M8100-1
+Pédalier de référence chez Shimano bon marché.
+
+Besoin d'un chainring Boost (3mm offset)
+
+![Shimano FC-M8100-1](./pics/Shimano-FC-M8100-1.jpg)
+
+ - Q-Factor 172mm
+ - Longueur 165/170/175/180mm
+ - Chainline 52mm
+ - Direct-mount Shimano VTT
+ - BB 68/73mm
+ - O.L.D. 142/148mm
+ - 24mm
+ - 608g (avec pignon 28T)
+ - [Page officielle](https://bike.shimano.com/fr-BE/products/components/pdp.P-FC-M8100-1.html)
+ - Revendeur:
+   - [bike-discount.de](https://www.bike-discount.de/fr/shimano-xt-fc-m8100-1-manivelle-12-vitesses-sans-plateau) 109.99 Euro
+   - [bike24.fr](https://www.bike24.fr/produits/411608?sku=1423243) 98.81 Euro
+
+## Chainring
+### Alugear Oval Boost
+Oval chainring pour direct mount (exist en "Gravel" avec un offset de 6mm)
+
+![Alugear Oval Boost](./pics/alugear-oval_boost.jpg)
+ - 40T
+ - Offset 2mm
+ - Chainline 52mm (si avec 52mm pédalier)
+ - Diameter 178mm
+ - 83g
+ - Timing 108deg
+ - Ovality 12%
+ - 7075-T6 aluminum
+ - Direct-Mount Shimano 12s
+ - [Page officielle](https://alugear.com/chainrings-1x/230-11871-oval-boost-for-shimano-dm-12sp-mtb.html#/color-black/size-40t) 75.00 Euro
