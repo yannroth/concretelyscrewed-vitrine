@@ -31,7 +31,7 @@ Slider dropout, compatible avec différentes plaques
 
 ![Allotec C25](./pics/Allotec-C25.jpeg)
 
-
+ - 285g
  - [Page officielle](http://www.allotec.com.tw/Dropout91.html?CID=1_6)
 
 ### Allotec C151
@@ -42,6 +42,7 @@ Plaque pour slider
  - Sram UDH
  - Post-Mount Brake
  - Rotor 160mm
+ - 148g
  - [Page officielle](http://www.allotec.com.tw/Dropout151.html?CID=1_6)
 
 ### Allotec C152
@@ -52,6 +53,7 @@ Plaque pour slider
  - Sram UDH
  - Flat-Mount brake
  - Rotor 160mm
+ - 106g
  - [Page officielle](http://www.allotec.com.tw/Dropout152.html?CID=1_6)
 
 ## Fourches
