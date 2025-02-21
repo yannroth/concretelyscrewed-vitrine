@@ -216,7 +216,7 @@ Fourche carbon de voyage
 
 ![Colombus Futura Adventure](./pics/Colombus-Futura_Adventure.webp)
 
- - Brand origin and handmade in Italy
+ - Brand origin Italy, Made in China
  - Tapered, 1-1/8" - 1-1/2"
  - S.H.I.S 28.6mm, 40mm
  - Offset 45mm, 50mm
@@ -304,7 +304,8 @@ Derailleur compatible Shimano 12 vittesses VTT microspline.
  - 300g
  - [Page officielle](https://trpcycling.com/products/evo-12-derailleur) 222.00 CHF
 
-## Seido PHASER Pedals
+## Pédales
+### Seido PHASER Pedals
 Pedales plates en alu 6061 usinées
 
 ![Seido PHASER Pedals](./pics/Seido-PHASER_Pedal.webp)
@@ -314,7 +315,7 @@ Pedales plates en alu 6061 usinées
  - Poids 418g / paire
  - [Page officielle](https://seido-components.com/collections/platform/products/phaser-pedals) 94.99 Euro
 
-## Seido SLICER Pedals
+### Seido SLICER Pedals
 Pedales plates en alu 6061 usinées
 
 ![Seido SLICER Pedals](./pics/Seido-SLICER_Pedal.webp)
@@ -324,7 +325,8 @@ Pedales plates en alu 6061 usinées
  - Poids 388g / paire
  - [Page officielle](https://seido-components.com/collections/platform/products/slicer-pedals) 123.99 Euro
 
-## Gevenalle GX Shifter
+## Shifter
+### Gevenalle GX Shifter
 Dropbar shifter compatible avec derailleur 12s et frein à cable
 
 ![Gevenalle GX Shifter](./pics/Gevenalle-GX_Shifter.jpg)
@@ -427,23 +429,28 @@ Hub de riche disponible dans plein de couleur et dans tout les standards.
 
  - 12 x 142mm
  - 24/28/32 holes
- - Disc 6-bolts
- - Shimano MicroSpline
+ - Disc 6-bolts / Centerlock
+ - Shimano MicroSpline / HG / SRAM XDR
  - 313g
  - [Page officielle](https://www.hopetech.com/products/hubs/mountain-bike/pro-5-135-142mm-rear/)
  - Revendeur:
    - [bike24.fr](https://www.bike24.fr/produits/739914?sku=2530212) 262.18 Euro
    - [r2-bike.com](https://r2-bike.com/HOPE-Rear-Hub-Pro-5-Classic-Center-Lock-12x142-mm-thru-axle-Freehub-Shimano-Micro-Spline-silver) 216.39 Euro
 
-#### DT Swiss Hub 350
+#### DT Swiss Hub 350 Classic
 
-![DT Swiss Hub 350](./pics/DTSwiss-Hub350.webp)
+![DT Swiss Hub 350 Classic](./pics/DTSwiss-Hub350.webp)
 
- - 12 x 148mm
+ - 12 x 148mm / 12 x 142
  - 28/32 holes
  - Disc 6-bolts
- - Shimano MicroSpline
+ - Shimano MicroSpline / HG
  - 277g
+ - Pitch circle diameter left 60mm
+ - Pitch circle diameter right 50.5mm
+ - Flange distance left 33.6mm
+ - Flange distance right 20.4mm
+ - Spoke hole diameter 2.6mm
  - [Page officielle](https://www.dtswiss.com/fr/composants/moyeux-et-rws/moyeux-vtt/350)
  - Revendeur:
    - [r2-bike.com](https://r2-bike.com/DT-SWISS-Rear-Hub-350-Classic-6-Hole-12x148-mm-BOOST-Thru-Axle-Freehub-Shimano-Micro-Spline) 157.56 Euro
@@ -473,6 +480,17 @@ Hub de riche disponible dans plein de couleur et dans tout les standards.
  - Revendeur:
    - [bike24.fr](https://www.bike24.fr/produits/297450?sku=1037709) 54.44 Euro
 
+#### DT Swiss 350 Classic
+
+ - 12 x 110mm (boost)
+ - 32 holes
+ - Disc IS 6-bolt
+ - 182g
+ - Pitch Circle Diameter Left 58mm
+ - Pitch Circle Diameter Right 52mm
+ - Flange distance left 27.4mm
+ - Flange distance right 40mm
+ - Spoke hole diameter 2.6mm
 
 ### Jantes
 #### Seido MAGNON Rim
@@ -507,6 +525,15 @@ Jante aluminium de voyage
     - [bike-discount.de](https://www.bike-discount.de/en/dt-swiss-r-500-28-disc-rim) 29.99 Euro
     - [r2-bike.com](https://r2-bike.com/DT-SWISS-Rim-28-R-500-DB-Disc-32-Holes) 27.31 Euro
 
+#### DT Swiss XM 421
+
+ - ETRTO 25-622
+ - Spoke count 32
+ - ERD 602mm
+ - Poids system max 120kg
+ - poids 465g
+ - [page officielle](https://www.dtswiss.com/fr/composants/jantes-vtt/all-mountain/xm-421) 99 Euro
+
 ### Rayon
 #### Sapim Spoke Race 2.0-1.8-2.0mm
 
@@ -521,13 +548,28 @@ Jante aluminium de voyage
 #### Sapim Spoke D-Light 2.0-1.65-2.0mm
 Version un poil plus légère, bon compromis résistance/poid
 
+![Sapim D-light](./pics/Sapim-D-Light.jpg)
+
  - 2.0mm - 1.65mm - 2.0mm
  - [Page officielle](https://www.sapim.be/spokes/butted/d-light)
  - Revendeur:
    - [wian-bike-and-parts.ch en noir](https://www.wian-bike-and-parts.ch/produkt/sapim-speiche-d-light-2-0-1-65-2-0mm-einzelstueck-mit-nippel-polyax-schwarz/) 1.95 CHF
    - [r2-bike.com](https://r2-bike.com/SAPIM-Spoke-D-Light-silver-288-mm) 0.42 Euro
 
-![Sapim D-light](./pics/Sapim-D-Light.jpg)
+#### DT Swiss Competition
+
+ - Butted 2.0mm - 1.8mm - 2.0mm
+ - [Page officielle](https://www.dtswiss.com/fr/composants/rayons-et-ecrous/rayons/dt-competition)
+
+#### DT Swiss Competition Race
+
+ - Butted 2.0mm - 1.6mm - 2.0mm
+ - [Page officielle](https://www.dtswiss.com/fr/composants/rayons-et-ecrous/rayons/dt-competition-race)
+
+### Nipples
+#### DT Swiss Standard
+
+ - [Page Officielle](https://www.dtswiss.com/fr/composants/rayons-et-ecrous/ecrous/dt-standard)
 
 ## Pédalier
 ### Shimano DEORE XT FC-M8100-1
