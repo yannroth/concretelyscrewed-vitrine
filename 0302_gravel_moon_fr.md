@@ -22,14 +22,14 @@ Achetée le 2 février 2025 à 550.00 CHF sur [voyage-shop.ch](https://www.voyag
 Achetée le 7 février 2025 à 570.23 Euro sur [bike24.fr](https://www.bike24.fr/produits/509565), reçue le 11 février 2025.
 
 ### Roues
-#### Moyen arrière
+#### Moyeu arrière
 DT Swiss 350 Classic
 Frein Disc IS (6-bolt)
 Cassette Shimano MTB
 12x142mm Thru Axle
 32 spokes
 
-#### Moyen avant
+#### Moyeu avant
 DT Swiss 350 Classic
 Frein Disc IS (6-bolt)
 15x110mm Thru Axle
