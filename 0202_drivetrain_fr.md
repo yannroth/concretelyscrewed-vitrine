@@ -40,7 +40,7 @@ Derailleur fait en Italie multi-compatible (SRAM/Shimano/road/mtn/11s/12s)
 ### TRP EVO 12 Derailleur
 Derailleur compatible Shimano 12 vittesses VTT microspline.
 
-[TRP EVO 12 Derailleur](./pics/TRP-EVO_12_Derailleur.webp)
+![TRP EVO 12 Derailleur](./pics/TRP-EVO_12_Derailleur.webp)
 
  - 12 speeds
  - Max 52T
@@ -50,10 +50,12 @@ Derailleur compatible Shimano 12 vittesses VTT microspline.
  ### Shimano SLX RD-M7100-SGS
  Dérailleur 12 vitesses VTT
 
+![Shimano SLX RD-M7100-SGS](./pics/Shimano-RD-M7100-SGS.jpeg)
+
  - 12 vitesses
  - Max 10-51
  - MTB pull
- - [Page officielle]()
+ - [Page officielle](https://bike.shimano.com/fr-FR/products/components/pdp.P-RD-M7100-SGS.html)
  - Revendeurs:
    - [Galaxus](https://www.galaxus.ch/fr/s3/product/shimano-slx-rd-m7100-12-vitesse-derailleur-arriere-11512067) CHF 54.90
    - [Fuchs-Movesa](https://www.fuchs-movesa.ch/fr/shop/composants-c1044/entrainement-c1045/commandes-c1053/derailleurs-arriere-c1071/mecanique-c1214/shimano-derailleur-slx-rd-m7100-12-vitesses-sgs-p909638) CHF 94.00
