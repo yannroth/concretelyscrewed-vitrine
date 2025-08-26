@@ -230,3 +230,5 @@ Oval chainring pour BCD 110
  - 7075-T6 aluminum
  - BCD 110 Shimano
  - [Page officielle](https://alugear.com/chainrings-1x/293-15893-oval-for-110-bcd-shimano-grx-road-gravel.html#/11-color-black/33-size-38t) 73.00 Euro
+
+## Boitier de pédalier

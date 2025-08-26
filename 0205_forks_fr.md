@@ -1,7 +1,8 @@
 [Page d'accueil](./index.md)/[02. Composants](./02_components_fr.md)
 
-# Fourches
-## Seidon TAZA Fork
+# Direction
+## Fourches
+### Seidon TAZA Fork
 Fourche carbon ultime de voyage, heavy duty.
 
 ![Seido TAZA Fork](./pics/Seido-TAZA_Fork.webp)
@@ -17,7 +18,7 @@ Fourche carbon ultime de voyage, heavy duty.
  - Poids system max 150kg
  - [Page officielle](https://seido-components.com/collections/mtb-forks/products/taza-fork) 645.99 Euro
 
-## Seido MGV Fork
+### Seido MGV Fork
 Fourche carbon légère de voyage
 
 ![Seido MGV Fork](./pics/Seido-MGV_Fork.webp)
@@ -37,7 +38,7 @@ Fourche carbon légère de voyage
     - [alltricks.com](https://www.alltricks.com/F-11918-fourches/P-2386460-seido_mgv_27_5__disc_fork___12x100mm___53mm_offset) 349.99 Euro
     - [velofactory.ch](https://www.velofactory.ch/SEIDO-MGV-Fork-275-28-TA-12x100-410mm-A-C_1) 338 CHF
 
- ## Seido BPS Fork
+ ### Seido BPS Fork
  Fourche acier utlime de voyage, heavy duty.
  
 ![Seido BPS Fork](./pics/Seido-BPS_Fork.webp)
@@ -58,7 +59,7 @@ Fourche carbon légère de voyage
     - [galaxus.ch](https://www.galaxus.ch/fr/s3/product/seido-bps-fork-ta-15mm-51mm-offset-fourche-velo-46596308) 306.00 CHF
     - [velofactory.ch](https://www.velofactory.ch/SEIDO-BPS-Fork-TA-15mm-51mm-offset_2) 288.00 CHF
 
-## Enve Adventure Fork
+### Enve Adventure Fork
 Fourche carbon de voyage
 
 ![Enve Adventure Fork](./pics/Enve-Adventure_Fork.webp)
@@ -79,7 +80,7 @@ Fourche carbon de voyage
     - [bike24.com](https://www.bike24.com/p2440227.html) 622.25 Euro
     - [alltricks.com](https://www.alltricks.com/F-11918-fourches/P-2208003-enve_adventure_fork_i_12x100_mm_i_carbon) 749 Euro
 
-## Enve Mountain Fork BOOST
+### Enve Mountain Fork BOOST
 Fourche carbon VTT
 
 ![Enve Mountain Fork Boost](./pics/Enve-Mountain_Fork_Boost.webp)
@@ -99,7 +100,7 @@ Fourche carbon VTT
     - [ciclimattio.com](https://ciclimattio.com/en/p/enve/mtn-29-1-1-2-taper-fork-black-44-52-110mm-29) 557.62 CHF
     - [r2-bike.com](https://r2-bike.com/ENVE-Fork-29-BOOST-Rigid-Fork-tapered-15-15x110-mm-Thru-Axle) 575.63 Euro
 
-## Ritchey WCS CARBON TAPERED ADVENTURE GRAVEL FORK
+### Ritchey WCS CARBON TAPERED ADVENTURE GRAVEL FORK
 Fourche carbon de voyage (existe en version pas Tapered)
 
 ![Ritchey WCS CARBON TAPERED ADVENTURE GRAVEL FORK](./pics/Ritchey-WCS_Carbon_Tapered_Adventure_Gravel_Fork.avif)
@@ -120,7 +121,7 @@ Fourche carbon de voyage (existe en version pas Tapered)
     - [tradeinn.com](https://www.tradeinn.com/bikeinn/en/ritchey-wcs-carbon-tapered-adventure-12x100-mm-road-fork/139283826/p) 476.99 CHF
     - [velofactory.ch](https://www.velofactory.ch/Fourche-Ritchey-Gravel-Adventure-WCS-Carbon-12x100-1-1-8-1-1-5-axe-inclus) 513.00 CHF
 
-## Ritchey WCS STEEL ADVENTURE FORK
+### Ritchey WCS STEEL ADVENTURE FORK
 Fourche acier de voyage
 
 ![Ritchey WCS STEEL ADVENTURE FORK](./pics/Ritchey-WCS_Steel_Adventure_Fork.avif)
@@ -137,7 +138,7 @@ Fourche acier de voyage
  - Poids system max inconnu
  - [Page officielle](https://ritcheylogic.com/bike/forks/wcs-steel-adventure-fork) 299.90 CHF
 
-## Wilde Waypoint Carbon Fork
+### Wilde Waypoint Carbon Fork
 Fourche carbon de voyage
 
 ![Wilde Waypoint Carbon Fork](./pics/Wilde-Waypoint_Carbon_Fork.webp)
@@ -155,7 +156,7 @@ Fourche carbon de voyage
  - Poids system max 115kg
  - [Page officielle](https://www.wildebikes.com/products/waypoint-carbon-fork-tapered) 462 CHF
 
-## Colombus Futura Adventure
+### Colombus Futura Adventure
 Fourche carbon de voyage
 
 ![Colombus Futura Adventure](./pics/Colombus-Futura_Adventure.webp)
@@ -178,7 +179,7 @@ Fourche carbon de voyage
     - [voyage-shop.ch](https://www.voyage-shop.ch/Parts/Fork/Columbus-Futura-Adventure-Fork.htm?shop=fs_en&SessionId=&a=article&ProdNr=FKCG0006&p=5714) 550.00 CHF
     - [ciclicorsa.com](https://ciclicorsa.com/fr/shop/futura-adventure-fork/) 594.00 Euro
 
-## State Bicycle Co. Carbon Fiber Monster Gravel Fork V2
+### State Bicycle Co. Carbon Fiber Monster Gravel Fork V2
 Fourche carbon de voyage
 
 ![State Bicycle Co. Monster Gravel Fork V2](./pics/StateBicycleCo-Monster_GravelFork.webp)
@@ -196,7 +197,7 @@ Fourche carbon de voyage
  - Poids system max inconnu
  - [Page officielle](https://www.statebicycle.com/products/state-bicycle-co-carbon-fiber-monster-gravel-fork) 278.00 CHF
 
-## 8Bar GRAVEL - Carbon Disc Fork
+### 8Bar GRAVEL - Carbon Disc Fork
 Berlin based brand, travel carbon fork
 
  - 
@@ -212,7 +213,7 @@ Berlin based brand, travel carbon fork
  - Poids system max inconnu
  - [Page officielle](https://8bar-bikes.com/shop/gravel-carbon-disc-fork-3/) 252.10 Euro
 
-## Rodeo Spork Series 3.3
+### Rodeo Spork Series 3.3
 Fourche carbon de voyage configurable
 
 ![Rodeo Spork Series 3](./pics/Rodeo-Spork-3.jpg)
@@ -229,3 +230,5 @@ Fourche carbon de voyage configurable
  - Poids bagage max 12.5kg
  - Poids system max 135kg
  - [Page officielle](https://www.rodeo-labs.com/shop/forks/rodeo-labs-spork-3-0/) 465 $
+
+## Jeu de direction

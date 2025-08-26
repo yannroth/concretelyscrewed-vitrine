@@ -99,6 +99,8 @@ Guidon de course standard.
  - Revendeurs :
    - [Fuchs-movesa](https://www.fuchs-movesa.ch/fr/shop/composants-c1044/cintres--potences-c1218/guidons-c1354/guidons-modeles-c1355/pro-guidon-discover-os-40cm-20-sweep-318-mm-alu-noir-p2987255) CHF 38.- (version carbon à CHF 200.- / 195 g)
 
+## Potence
+
 ## Poignées
 ### Ergon GA2
 Poignée normal synthétique
