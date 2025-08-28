@@ -205,6 +205,7 @@ Besoin d'un chainring Boost (3mm offset)
 Oval chainring pour direct mount (exist en "Gravel" avec un offset de 6mm)
 
 ![Alugear Oval Boost](./pics/alugear-oval_boost.jpg)
+
  - 40T
  - Offset 2mm
  - Chainline 52mm (si avec 52mm pédalier)
@@ -220,6 +221,7 @@ Oval chainring pour direct mount (exist en "Gravel" avec un offset de 6mm)
 Oval chainring pour BCD 110
 
 ![Alugear Oval for Shimano GRX](./pics/alugear-oval_grx.jpg)
+
  - 40T
  - Offset 2mm
  - Chainline 52mm (si avec 52mm pédalier)
@@ -232,3 +234,37 @@ Oval chainring pour BCD 110
  - [Page officielle](https://alugear.com/chainrings-1x/293-15893-oval-for-110-bcd-shimano-grx-road-gravel.html#/11-color-black/33-size-38t) 73.00 Euro
 
 ## Boitier de pédalier
+### Shimano BB-MT801
+Boîtier de pédalier bon marché VTT
+
+![Shimano BB-MT801](./pics/Shimano-BB-MT801.jpg)
+
+ - BSA
+ - Hollowtech 2
+ - Largeur de pédalier : 68 mm / 73 mm
+ - Poids : 84 g
+ - [Page officielle](https://bike.shimano.com/fr-FR/products/components/pdp.P-BB-MT801.html)
+ - Revendeurs :
+   - [Fuchs-movesa](https://www.fuchs-movesa.ch/fr/shop/composants-c1044/entrainement-c1045/boitier-de-pedalier-c1175/avec-filetage-c1290/shimano-jeu-de-pedalier-bb-mt801-hollowtech-ii-bsa-6873-mm-p910031) CHF 32.30
+
+### Hope Bottom Bracket
+Boîtier haut de gamme made in USA disponible dans plein de couleur funky
+
+![Hope Bottom Bracket](./pics/Hope-Bottom-Bracket.jpg)
+
+ - BSA
+ - Hollowtech 2 (24 mm) ou 30 mm
+ - Largeur de pédalier : 68 mm / 73 mm
+ - Poids : 110 g
+ - [Page officielle](https://www.hopetech.com/products/drivetrain/bottom-bracket/threaded-bottom-bracket/)
+ - Revendeurs :
+   - [Bike-discount.de](https://www.bike-discount.de/en/hope-bsa-68/73mm-stainless-steel-bottom-bracket) 109.99 Euro
+   - [Bike24](https://www.bike24.com/p275509.html) 104.47 Euro
+
+### Chris King
+TODO
+
+### White Industries
+TODO
+
+
